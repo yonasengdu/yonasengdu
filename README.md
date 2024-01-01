@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
-## Do you have a problem let solve it !!
+## Do you have a problem let's solve it !!
 
 <div style="display: flex; ">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yonasengdu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
