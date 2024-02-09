@@ -40,8 +40,8 @@ class SoftwareEngineer :
 
  </div>
 
-<img align="right" height="192" width = "290" src="https://media.giphy.com/media/ynx1sj5Wz2atO/giphy.gif"  />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tans1&" alt="tans1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yonasengdu&" alt="tans1" /></p>
 
 
 
