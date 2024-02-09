@@ -34,14 +34,10 @@ class SoftwareEngineer :
 
 ## Do you have a problem let's solve it !!
 
-<div style="display: flex; ">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yonasengdu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yonasengdu&layout=compact&langs_count=8&theme=radical"/>  
 
- </div>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yonasengdu&" alt="tans1" /></p>
+  <p><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yonasengdu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/></p>
+  <p><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yonasengdu&layout=compact&langs_count=8&theme=radical"/> </p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yonasengdu&" alt="tans1" /></p>
 
 
 
