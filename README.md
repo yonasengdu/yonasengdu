@@ -3,6 +3,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+<p>
+	
+
 
 ``` python
 class SoftwareEngineer :
@@ -27,6 +30,7 @@ class SoftwareEngineer :
 			"telegram" : "https://t.me/tan_nat"
 		}
  ```
+</p>
 
 ## Do you have a problem let's solve it !!
 
