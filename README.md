@@ -40,6 +40,11 @@ class SoftwareEngineer :
 
  </div>
 
+<img align="right" height="230" width = "320" src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif"  />
+<div align="left">
+  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tans1&locale=en&hide_title=false&layout=compact&card_width=410&langs_count=7&theme=dracula&hide_border=false" height="230" alt="languages graph"  />
+</div>
 
 ## Skills
 
