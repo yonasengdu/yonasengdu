@@ -10,24 +10,24 @@
 ``` python
 class SoftwareEngineer :
 	def __init__(self):
-	    self.name = "Tofik Abdu"
-	    self.about = """Dedicated Software Engineer and passionate about learning new things
+	    self.name = "Yonas Engdu"
+	    self.about = """Software Engineer and passionate about learning new things
 			    and interested in competitive programming.I have been in touch with coding for many years."""
 	def getSkills(self):
 		return {
-			"frontend" : "ReactJs,Redux,Tailwind,Bootstrap,FramerMotion,Emotion,JS,",
-			"backend" : "NodeJs, ExpressJs, NestJs,ASP.NET CORE",
+			"frontend" : "ReactJs,Nextjs,HTML-templating,Handlebars Template,Redux,Tailwind,Bootstrap,FramerMotion,Emotion,JS,",
+			"backend" : "NodeJs, ExpressJs,Golang, NestJs,ASP.NET CORE,",
 			"mobile" : "Flutter, Dart",
-			"database" : "MongoDb,MysqlDb,PostgresqlDb,Hive",
-			"programming language" : "Python, Java, JavaScript, TypeScript,Dart,C#"
-			"tools and tech" : "Jira,Confluence,Slack,git,Postman,Vs-code",
-			"architecture" : "Clean Architecture, MVC"
+			"database" : "MongoDb,MysqlDb,PostgresqlDb,Hive,",
+			"programming language" : "Python, Java, JavaScript, TypeScript,Dart,C#,Golang,Typescript"
+			"tools and tech" : "rabbitMq,GRPC,bitbucket,Jira,Confluence,Slack,git,Postman,Vs-code,Click-UP",
+			"architecture" : "Clean Architecture, MVC,Micro-service"
 		}
 	def getAddress(self):
 		return {
-			"mail" : "tofikabdu2002@gmail.com",
-			"linkedIn" : "https://www.linkedin.com/in/tofik-abdu/",
-			"telegram" : "https://t.me/tan_nat"
+			"mail" : "engduyonas1994@gmail.com",
+			"linkedIn" : "https://www.linkedin.com/in/yonasengdu/",
+			"telegram" : "https://t.me/yonasengdu"
 		}
  ```
 </p>
