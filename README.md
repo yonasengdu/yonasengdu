@@ -63,13 +63,6 @@
 <!--Flutter--> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
 <!--Django--> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 
-<h3 align="left">✏️ Github Stats:</h3>
-
-[![committers.top badge](https://user-badge.committers.top/ethiopia/ffekirnew.svg)](https://user-badge.committers.top/ethiopia/yonasengu)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yonasengdu&show_icons=true&locale=en&layout=compact" alt="yonasengdu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yonasengdu&show_icons=true&locale=en" alt="ffekirnew" /></p>
-
 <h3 align="left">⚡ I’m looking to collaborate on:</h3>
 
 - flutter
